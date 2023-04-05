@@ -1,9 +1,8 @@
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://github.com/Akash-ku-Mallick/Akash-ku-Mallick/blob/main/src/car-driving.gif" /> 
 <h1 align="center">Hi 👋, I'm Akash Kumar Mallick</h1>
 <h3 align="center">IF you want a Front-end and Mobile App Developer skilled in Figma, API integration, and Flutter, then I an Akash Kumar. I easily understands client needs to deliver effective solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-ku-mallick&label=Profile%20views&color=0e75b6&style=flat" alt="akash-ku-mallick" /> </p>
-
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://images.app.goo.gl/zftH7YmkdmDULifc6" /> 
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash-ku-mallick" alt="akash-ku-mallick" /></a> </p>
 
