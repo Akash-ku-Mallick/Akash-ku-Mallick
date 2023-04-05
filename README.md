@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-ku-mallick&label=Profile%20views&color=0e75b6&style=flat" alt="akash-ku-mallick" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash-ku-mallick" alt="akash-ku-mallick" /></a> </p>
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://images.app.goo.gl/zftH7YmkdmDULifc6" /> 
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash-ku-mallick" alt="akash-ku-mallick" /></a> </p>
 
 - 🔭 I’m currently working on [SFWeather (Weather broadcast)](https://github.com/Akash-ku-Mallick/SFWeather)
 
