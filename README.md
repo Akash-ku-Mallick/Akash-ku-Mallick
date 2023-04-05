@@ -1,4 +1,4 @@
-<p align="center"> <img alt="Banner" height=360 width=640 src="src/car-driving.gif" /> </p>
+![car-driving](https://user-images.githubusercontent.com/99015782/230148421-ad29c355-36aa-4a5f-ad92-4d8013402330.gif)
 
 <h1 align="center">Hi 👋, I'm Akash Kumar Mallick</h1>
 <h3 align="center">IF you want a Front-end and Mobile App Developer skilled in Figma, API integration, and Flutter, then I an Akash Kumar. I easily understands client needs to deliver effective solutions.</h3>
