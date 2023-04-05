@@ -2,7 +2,7 @@
 <h3 align="center">IF you want a Front-end and Mobile App Developer skilled in Figma, API integration, and Flutter, then I an Akash Kumar. I easily understands client needs to deliver effective solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-ku-mallick&label=Profile%20views&color=0e75b6&style=flat" alt="akash-ku-mallick" /> </p>
-
+<img align""right" src="https://dribbble.com/shots/4171367-Coding-Freak/attachments/10240400?mode=media" alt="akash-ku-mallick" />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash-ku-mallick" alt="akash-ku-mallick" /></a> </p>
 
 - 🔭 I’m currently working on [SFWeather (Weather broadcast)](https://github.com/Akash-ku-Mallick/SFWeather)
