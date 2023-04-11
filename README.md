@@ -38,3 +38,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-ku-mallick&show_icons=true&locale=en&layout=compact" alt="akash-ku-mallick" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash-ku-mallick&" alt="akash-ku-mallick" /></p>
+
+![lofi-music-lofiartwork](https://user-images.githubusercontent.com/99015782/231274494-8d029905-108f-48cb-b01c-0b7d3db76a88.gif)
