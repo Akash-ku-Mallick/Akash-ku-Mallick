@@ -1,17 +1,15 @@
-![car-driving](https://user-images.githubusercontent.com/99015782/230148421-ad29c355-36aa-4a5f-ad92-4d8013402330.gif)
-
 <h1 align="center">Hi 👋, I'm Akash Kumar Mallick</h1>
-<h3 align="center">IF you want a Front-end and Mobile App Developer skilled in Figma, API integration, and Flutter, then I an Akash Kumar. I easily understands client needs to deliver effective solutions.</h3>
+<h3 align="center">Full Stack Generalist focused on front-end development. Proficient in Python, React.js, React Native, and MERN Stack. BS in Computer Science and pursuing Masters. Open to roles in Software Engineering, Desighing & Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-ku-mallick&label=Profile%20views&color=0e75b6&style=flat" alt="akash-ku-mallick" /> </p>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash-ku-mallick" alt="akash-ku-mallick" /></a> </p>
 
-- 🔭 I’m currently working on [SFWeather (Weather broadcast)](https://github.com/Akash-ku-Mallick/SFWeather)
+- 🔭 I’m currently working on [Browser Extention and Mail-AI (AI Mail generatior)](https://github.com/Akash-ku-Mallick/Mail-ai)
 
-- 🌱 I’m currently learning **Three.js**
+- 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **Java, react**
+- 💬 Ask me about **JavaScript, react, CSS, HTML5**
 
 - 📫 How to reach me **akashkumarmallick@outlook.com**
 
@@ -40,3 +38,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash-ku-mallick&" alt="akash-ku-mallick" /></p>
 
 ![lofi-music-lofiartwork](https://user-images.githubusercontent.com/99015782/231274494-8d029905-108f-48cb-b01c-0b7d3db76a88.gif)
+
+![car-driving](https://user-images.githubusercontent.com/99015782/230148421-ad29c355-36aa-4a5f-ad92-4d8013402330.gif)
+
